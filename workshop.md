@@ -1,7 +1,7 @@
 # VICC Workshop
 
-Date: February, the 1st 2015
-Booking site:
+- Date: February, the 1st 2015
+- Polling site: http://doodle.com/poll/tzqpy2a6quf7rc9s
 
 ## How-to read a scientific paper
 
