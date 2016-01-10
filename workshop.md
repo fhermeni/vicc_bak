@@ -21,3 +21,4 @@
 1. [The Design and Implementation of Open vSwitch](http://openvswitch.org/support/papers/nsdi2015.pdf). NSDI 2015
 1. [Network virtualization in multi-tenant datacenters](http://openvswitch.org/support/papers/nsdi2014.pdf). NSDI 2014
 1. [ClickOS and the Art of Network Function Virtualization](https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-martins.pdf). NSDI 2014
+1. [Large scale cluster management at Google with Borg](http://dl.acm.org/authorize?N95407). Eurosys 2015
