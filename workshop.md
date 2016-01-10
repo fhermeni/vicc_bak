@@ -20,4 +20,4 @@
 1. [VALE, a Switched Ethernet for Virtual Machines](http://info.iet.unipi.it/~luigi/papers/20121026-vale.pdf). Conext 2012
 1. [Network virtualization in multi-tenant datacenters](http://openvswitch.org/support/papers/nsdi2014.pdf). NSDI 2014
 1. [ClickOS and the Art of Network Function Virtualization](https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-martins.pdf). NSDI 2014
-1. [Jupiter Rising: A Decade of Clos Topologies and Centralized Control in Google’s Datacenter Network](http://conferences.sigcomm.org/sigcomm/2015/pdf/papers/p183.pdf)
+1. [Jupiter Rising: A Decade of Clos Topologies and Centralized Control in Google’s Datacenter Network](http://conferences.sigcomm.org/sigcomm/2015/pdf/papers/p183.pdf). Infocom 2015
