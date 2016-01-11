@@ -3,6 +3,7 @@
 - Date: February, the 1st 2015
 - 15 minutes talk
 - Polling site: http://doodle.com/poll/tzqpy2a6quf7rc9s
+- 3 persons per group
 
 ## How-to read a scientific paper
 
